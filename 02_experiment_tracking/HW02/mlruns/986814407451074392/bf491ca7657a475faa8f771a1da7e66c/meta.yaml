@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/users/460484/OneDrive%20-%20TMNA/Desktop/python/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/986814407451074392/bf491ca7657a475faa8f771a1da7e66c/artifacts
+end_time: 1685920342886
+entry_point_name: ''
+experiment_id: '986814407451074392'
+lifecycle_stage: active
+run_id: bf491ca7657a475faa8f771a1da7e66c
+run_name: glamorous-worm-632
+run_uuid: bf491ca7657a475faa8f771a1da7e66c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685920327641
+status: 3
+tags: []
+user_id: arundac23

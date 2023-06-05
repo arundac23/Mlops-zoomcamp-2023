@@ -1,0 +1,6 @@
+artifact_location: file:///mnt/c/users/460484/OneDrive%20-%20TMNA/Desktop/python/mlops-zoomcamp/cohorts/2023/02-experiment-tracking/homework/mlruns/986814407451074392
+creation_time: 1685920327187
+experiment_id: '986814407451074392'
+last_update_time: 1685920327187
+lifecycle_stage: active
+name: random-forest-exp-tracking
