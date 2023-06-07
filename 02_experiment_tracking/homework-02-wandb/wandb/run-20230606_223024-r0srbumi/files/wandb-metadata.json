@@ -1,0 +1,60 @@
+{
+    "os": "Linux-5.10.102.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-06-07T02:30:26.354382",
+    "startedAt": "2023-06-07T02:30:24.820852",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "NYC-TAXI-PREDICTION",
+        "--wandb_entity",
+        "arundac-p",
+        "--raw_data_path",
+        "./data",
+        "--dest_path",
+        "./output"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/arundac/wandb/HW02/homework-wandb/preprocess_data.py",
+    "codePath": "preprocess_data.py",
+    "host": "DESKTOP-S3EARH7",
+    "username": "arundac23",
+    "executable": "/home/arundac23/miniconda3/envs/wandb-exp-tracking/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2591.999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2591.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2591.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2591.999,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2591.999,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.98248672485352,
+        "used": 3.3118553161621094
+    },
+    "memory": {
+        "total": 6.076091766357422
+    }
+}
